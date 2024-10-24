@@ -1,0 +1,16 @@
+{
+  "name": "with-python",
+  "version": "1.0.0",
+  "description": "app with web worker",
+  "main": "main.js",
+
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arshmah Saeed",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.0.1"
+  }
+}
